@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProjeAdi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjeAdi.2ocpug7miu.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\agency-img.jpg",
+      "PackagePath": "staticwebassets\\images\\agency-img.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\free.svg",
+      "PackagePath": "staticwebassets\\images\\free.svg"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\gifts.png",
+      "PackagePath": "staticwebassets\\images\\gifts.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\high-quality.svg",
+      "PackagePath": "staticwebassets\\images\\high-quality.svg"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p1.png",
+      "PackagePath": "staticwebassets\\images\\p1.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p2.png",
+      "PackagePath": "staticwebassets\\images\\p2.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p3.png",
+      "PackagePath": "staticwebassets\\images\\p3.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p4.png",
+      "PackagePath": "staticwebassets\\images\\p4.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p5.png",
+      "PackagePath": "staticwebassets\\images\\p5.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p6.png",
+      "PackagePath": "staticwebassets\\images\\p6.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p7.png",
+      "PackagePath": "staticwebassets\\images\\p7.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\p8.png",
+      "PackagePath": "staticwebassets\\images\\p8.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\purse.png",
+      "PackagePath": "staticwebassets\\images\\purse.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\saving-img.png",
+      "PackagePath": "staticwebassets\\images\\saving-img.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "c:\\Users\\Serkan UŞAK\\ProjeAdi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProjeAdi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProjeAdi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ProjeAdi.props",
+      "PackagePath": "build\\ProjeAdi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjeAdi.props",
+      "PackagePath": "buildMultiTargeting\\ProjeAdi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ProjeAdi.props",
+      "PackagePath": "buildTransitive\\ProjeAdi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
